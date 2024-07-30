@@ -49,7 +49,6 @@
   </p>
 </div>
 
-[Contributors][contributors-url]
 [MIT License][license-url]
 
 <!-- TABLE OF CONTENTS -->
@@ -86,8 +85,6 @@ Este repo es un proyecto de frontend para la aplicacion Diveni. Diveni es una ap
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 ## Colaboradores
-
-[Contributors][contributors-url]
 
 - Gerard Du Pre - [@gerardPolloRebozado](https://github.com/GerardPolloRebozado)
 - Matthew Angulo - [@mxttw3](https://github.com/mxttw3)
