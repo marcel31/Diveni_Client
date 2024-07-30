@@ -43,8 +43,6 @@
     <br />
     <br />
     <!-- Link to Demo Video -->
-    <a href="https://diveni.pollorebozado.com">Ver Demo</a>
-    ·
     <a href="https://github.com/LaSalleGracia-Projectes/projecte-aplicaci-web-client-richard-stallman/issues/new?labels=bug&template=bug-report---.md">Reportar Bug</a>
     ·
     <a href="https://github.com/LaSalleGracia-Projectes/projecte-aplicaci-web-client-richard-stallman/issues/new?labels=enhancement&template=feature-request---.md">Pedir una Feature</a>
