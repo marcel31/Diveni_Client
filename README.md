@@ -91,7 +91,7 @@ Este repo es un proyecto de frontend para la aplicacion Diveni. Diveni es una ap
 
 - Gerard Du Pre - [@gerardPolloRebozado](https://github.com/GerardPolloRebozado)
 - Matthew Angulo - [@mxttw3](https://github.com/mxttw3)
-- Marcel Ges - [@marcelgeslasalle](https://github.com/marcelgeslasalle)
+- Marcel Ges - [@marcel31](https://github.com/marcel31)
 - Pol Mauri- [@PolMauri5](https://github.com/PolMauri5)
 
 ## Desarrollado con
