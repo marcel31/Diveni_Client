@@ -1,0 +1,21 @@
+version: '3'
+services:
+  frontend:
+    image: node:latest
+    restart: on-failure
+    ports:
+      - "19000:19000"
+      - "19001:19001"
+      - "19002:19002"
+      - "19006:19006"
+
+    # Establecer el directorio de trabajo en /app
+    working_dir: /app
+
+    # Copiar los archivos del proyecto al directorio de trabajo en el contenedor
+    volumes:
+      - .:/app
+      - /app/node_modules
+
+    # Instalar dependencias utilizando npm o yarn
+    command: sh -c "npm install && npx expo start --web"
